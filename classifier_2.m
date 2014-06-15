@@ -1,9 +1,7 @@
 function test_labels = classifier_2(trainfile, testfile, out_train, out_test)
 %{
 Author : Vaibhav Malpani 
-Uni: vom2102
-Course: Biometrics CS6737
-Homework 3 - KNN Classification
+KNN Classification
 4-Fold Accuracy ~ 93.4%
 
 Parameters Set:

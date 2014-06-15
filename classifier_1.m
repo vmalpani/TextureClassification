@@ -1,9 +1,7 @@
 function classifier_1(trainfile, testfile, out_train, out_test)
 %{
 Author : Vaibhav Malpani 
-Uni: vom2102
-Course: Biometrics CS6737
-Homework 3 - Bayesian Classification
+Bayesian Classification
 4-Fold Accuracy ~ 91.78%
 Optimal feature set 1 - {3,5,6,7,13}
 Optimal feature set 2 - {7,3,5,4,13}
